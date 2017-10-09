@@ -1,4 +1,4 @@
-__author__ = 'Wietrack 2015'
+__author__ = 'Tomas Vetrovsky 2015'
 
 import sys
 from subprocess import call
@@ -34,7 +34,7 @@ inputFilesReading = False
 annotationFilesReading = False
 
 print "--------------------------------"
-print "--- Genome comparator v 0.90 ---"
+print "--- Genome comparator v 1.00 ---"
 print "---   Tomas Vetrovsky 2015   ---"
 print "--------------------------------"
 print " "
